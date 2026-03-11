@@ -71,8 +71,13 @@ Validez puis patienteZ le temps de l'importation.
 ### Step 2.5: Activer l'API Gemini
 
 Pour utiliser le notebook de test, il faut activer l'API Gemini dans Google Cloud. 
+
 Pour ce faire, tapez Gemini API dans la barre de recherche. 
+
 Cliquez sur le premier résultat Marketplace puis sur *"Activer"*.
+
+
+<img src="./images/gemini_api.png" alt="drawing" width="600"/>
 
 
 ### Step 3: Importer et faire tourner le notebook
