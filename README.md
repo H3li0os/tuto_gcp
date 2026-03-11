@@ -1,14 +1,7 @@
 # Tuto faire fonctionner un notebook GCP :dizzy:
 
 
-
-
-
-
-
-##### Step 1: Créer un VPC (Virtual Private Cloud)
-
-
+### Step 1: Créer un VPC (Virtual Private Cloud)
 
 Dans la barre latérale de la console GCP, défilez vers le bas jusqu'à trouver *"Réseaux VPC"*.
 
@@ -47,7 +40,7 @@ Vous venez de créer un réseau et un sous-réseau, pour l'instant vides.
 
 
 
-#### Step 2: Créer un Bucket (à la vérité, probablement optionnel, mais toujours utile)
+### Step 2: Créer un Bucket (à la vérité, probablement optionnel, mais toujours utile)
 
 
 
@@ -75,7 +68,7 @@ Validez puis patienteZ le temps de l'importation.
 
 
 
-#### Step 3: Importer et faire tourner le notebook
+### Step 3: Importer et faire tourner le notebook
 
 
 
@@ -106,9 +99,7 @@ Vous pouvez ensuite cliquer sur *"Tout éxécuter"*.
 
 
 
-
-#### Step 4 (optionnel): Aller plus loin
-
+### Step 4 (optionnel): Aller plus loin
 
 
 Vous pouvez modifier le notebook à votre guise. Modifier le prompt et l'image envoyés à l'agent etc.
