@@ -30,8 +30,6 @@ Défilez jusqu'à la section "Sous-réseaux". Remplissez les informations comme 
 
 **Veillez à cocher le case "Activé" pour *"Accès privé à Google"***. 
 
-En ce qui concerne la plage IPv4, il s'agit là de la même plage que l'IP de la caméra utilisée pour les tests. Vous pouvez en choisir une autre à votre guise. 
-
 
 <p float="left">
   <img src="./images/sous_reseau.png" alt="drawing" width="500"/>
